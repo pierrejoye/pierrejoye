@@ -14,5 +14,5 @@ Please feel free to reach me out if you have any questions or need help. I will 
 * https://github.com/php
 * https://github.com/libgd
 * https://github.com/pierrejoye/php_zip
-* Pickle, composer like for PHP Extensions (like PECL but smooth, supports git, archives, src and binary install on windows)
+* https://github.com/FriendsOfPHP/pickle, composer like for PHP Extensions (like PECL but smooth, supports git, archives, src and binary install on windows)
 * many other projects I had contribute to and would love to contribute more <3
